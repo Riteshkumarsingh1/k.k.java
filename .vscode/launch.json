@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OrderAgonsticSearch",
+            "request": "launch",
+            "mainClass": "OrderAgonsticSearch",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "findMINno",
+            "request": "launch",
+            "mainClass": "findMINno",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "searchinRange",
+            "request": "launch",
+            "mainClass": "searchinRange",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "searchinstring",
+            "request": "launch",
+            "mainClass": "searchinstring",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "linear",
+            "request": "launch",
+            "mainClass": "linear",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "arraylist",
+            "request": "launch",
+            "mainClass": "arraylist",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "base",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "conditionsandloop",
+            "request": "launch",
+            "mainClass": "conditionsandloop",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "functions",
+            "request": "launch",
+            "mainClass": "functions",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "iterators",
+            "request": "launch",
+            "mainClass": "iterators",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "premitive",
+            "request": "launch",
+            "mainClass": "premitive",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "temprature",
+            "request": "launch",
+            "mainClass": "temprature",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "typecasting",
+            "request": "launch",
+            "mainClass": "typecasting",
+            "projectName": "k.k. java_5b28befe"
+        }
+    ]
+}
