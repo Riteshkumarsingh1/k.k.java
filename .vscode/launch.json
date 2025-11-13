@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
             "name": "OrderAgonsticSearch",
             "request": "launch",
             "mainClass": "OrderAgonsticSearch",
