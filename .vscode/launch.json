@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "patternPrinting",
+            "request": "launch",
+            "mainClass": "patternPrinting",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "prettyPrinting",
+            "request": "launch",
+            "mainClass": "prettyPrinting",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
             "name": "Strings",
             "request": "launch",
             "mainClass": "Strings",
