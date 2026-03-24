@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelectionSortRec",
+            "request": "launch",
+            "mainClass": "SelectionSortRec",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSortRecursion",
+            "request": "launch",
+            "mainClass": "bubbleSortRecursion",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBinarySearch",
+            "request": "launch",
+            "mainClass": "RotatedBinarySearch",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
             "name": "basic",
             "request": "launch",
             "mainClass": "basic",
