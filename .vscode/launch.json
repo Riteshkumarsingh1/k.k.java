@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "streamStringRec",
+            "request": "launch",
+            "mainClass": "streamStringRec",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
             "name": "SelectionSortRec",
             "request": "launch",
             "mainClass": "SelectionSortRec",
