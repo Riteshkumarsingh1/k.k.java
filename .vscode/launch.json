@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "permutationRec",
+            "request": "launch",
+            "mainClass": "permutationRec",
+            "projectName": "k.k. java_5b28befe"
+        },
+        {
+            "type": "java",
             "name": "streamStringRec",
             "request": "launch",
             "mainClass": "streamStringRec",
