@@ -2,10 +2,11 @@
     "java.project.sourcePaths": [
         "k.k.java/basicsjava",
         "k.k.java/Strings&StringBuildersjava",
+        "k.k.java/Recursion",
         "k.k.java/PatternPrinting.java",
         "k.k.java/Linearsearchalgos",
         "k.k.java/Arraysjava",
-        "k.k.java/Recursion"
+        "k.k.java/Linked-List"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
