@@ -1,10 +1,30 @@
+// public class main {
+//     public static void main(String[] args) {
+
+//         LL list = new LL();
+//         list.insertFirst(3);
+//         list.insertFirst(2);
+//         list.insertFirst(1);
+//         list.insert(100, 4);
+//         System.out.println(list.deleteFirst());
+//         System.out.println(list.deleteLast());
+//         System.out.println(list.delete(2));
+//         System.out.println(list.find(100));
+//         list.display();
+//     }
+// }
+
 public class main {
     public static void main(String[] args) {
-
-        LL list = new LL();
+        doublyLL list = new doublyLL();
         list.insertFirst(3);
         list.insertFirst(2);
         list.insertFirst(1);
+        list.insertFirst(4);
+        System.out.println(list.deleteFirst());
+        System.out.println(list.deleteLast());
+        System.out.println(list.delete(2));
+        System.out.println(list.find(100));
         list.display();
     }
 }
